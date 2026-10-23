@@ -1,4 +1,4 @@
-package com.axisrobo.nomivela;
+package com.axisvela.nomivela;
 
 /** An authority namespace. */
 public record Namespace(

@@ -1,4 +1,4 @@
-package com.axisrobo.nomivela;
+package com.axisvela.nomivela;
 
 /**
  * A consistent point-in-time Registry read for one Agent identity. Namespace,

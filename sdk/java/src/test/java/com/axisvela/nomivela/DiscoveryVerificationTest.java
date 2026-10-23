@@ -1,4 +1,4 @@
-package com.axisrobo.nomivela;
+package com.axisvela.nomivela;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;

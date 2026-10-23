@@ -1,4 +1,4 @@
-package com.axisrobo.nomivela;
+package com.axisvela.nomivela;
 
 /** A security Agent Identity Record. */
 public record AgentIdentity(
