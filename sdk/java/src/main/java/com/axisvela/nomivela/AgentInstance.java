@@ -1,4 +1,4 @@
-package com.axisrobo.nomivela;
+package com.axisvela.nomivela;
 
 /** A running instance of an Agent identity. */
 public record AgentInstance(

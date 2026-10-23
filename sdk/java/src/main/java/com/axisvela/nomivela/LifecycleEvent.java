@@ -1,4 +1,4 @@
-package com.axisrobo.nomivela;
+package com.axisvela.nomivela;
 
 /** Append-only evidence of a state transition. */
 public record LifecycleEvent(

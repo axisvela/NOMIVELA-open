@@ -1,4 +1,4 @@
-package com.axisrobo.nomivela;
+package com.axisvela.nomivela;
 
 /** A discovery document failed verification. */
 public class DiscoveryVerificationException extends IllegalArgumentException {

@@ -1,4 +1,4 @@
-package com.axisrobo.nomivela;
+package com.axisvela.nomivela;
 
 /** An error response from the API, carrying the stable contract code. */
 public class ApiException extends RuntimeException {

@@ -1,4 +1,4 @@
-package com.axisrobo.nomivela;
+package com.axisvela.nomivela;
 
 import java.nio.charset.StandardCharsets;
 import java.security.GeneralSecurityException;
